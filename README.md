@@ -10,7 +10,7 @@
 - <strong>data-key</strong> : faz referência ao número por trás da tecla<br>
 - <strong>data-note</strong> : faz referência a nota do piano
 
-<h2>São 17 teclas ao todo, sendo 10 brancas e 7 pretas</h2:
+<h2>São 17 teclas ao todo, sendo 10 brancas e 7 pretas</h2>:
 
 Numeração tecla / Nota / Letra teclado  === teclas brancas
 
