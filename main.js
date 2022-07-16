@@ -1,19 +1,11 @@
 // GET ALL KEYS
 const keys = document.querySelectorAll('.key')
 
-<<<<<<< HEAD
-=======
-
->>>>>>> cb7e30cc6cdc0bd234bc2d5dbb6338677a31dc44
 // tocar notas
 function playNote(event) {
   
   let audioKeyCode = getKeyCode(event);
-<<<<<<< HEAD
   console.log(audioKeyCode)
-=======
->>>>>>> cb7e30cc6cdc0bd234bc2d5dbb6338677a31dc44
-
   // TYPED OR PRESSED KEY
   const key = document.querySelector(`.key[data-key="${audioKeyCode}"]`)
 
@@ -42,24 +34,20 @@ function getKeyCode(event) {
   }
   return keyCode
 }
-
-
-
+// FUNCTION TO PLAY AUDIO CORRESPONDENT
 function playAudio(audioKeyCode) {
   const audio = document.querySelector(`audio[data-key="${audioKeyCode}"]`)
-  audio.currentTime = 0;
+  audio.currentTime = 0; // START SONG AT 0
   audio.play()
 }
-
+// RESTART EVENT WHEN CLICK
 function removePlayingClass(event) {
   event.target.classList.remove("playing")
 }
-// clicar com mouse
+// MOUSE CLICK
 keys.forEach( key => {
   key.addEventListener("click", playNote)
   key.addEventListener("transitionend", removePlayingClass)
 })
-
-
-// tipo de teclas
+// KEYBOARD TYPE
 window.addEventListener("keydown", playNote)
