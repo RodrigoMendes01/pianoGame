@@ -1,7 +1,7 @@
 // GET ALL KEYS
 const keys = document.querySelectorAll('.key')
 
-// tocar notas
+// PLAY NOTES
 function playNote(event) {
   
   let audioKeyCode = getKeyCode(event);
