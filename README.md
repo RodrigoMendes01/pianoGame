@@ -35,4 +35,4 @@ Numeração tecla/ Nota / Letra teclado === teclas pretas
 79 /  C#  / O<br>
 80 /  D#  / P<br>
 
-<img src="https://cdn.frankerfacez.com/emoticon/64210/1"/>Declarações: projeto não é meu, elaborei para a prática do conceito <img src="https://cdn.frankerfacez.com/emoticon/64210/1"/> 
+<img src="https://cdn.frankerfacez.com/emoticon/64210/1"/>Declarações: projeto não é meu, elaborei para a prática do conceito <strong>DOM</strong> <img src="https://cdn.frankerfacez.com/emoticon/64210/1"/> 
