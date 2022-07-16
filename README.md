@@ -1,7 +1,7 @@
 ###  🎹 pianoGame 🎹
 
 - 1º faça o git clone (URL do repositório) <br>
- -2 º Abra o arquivo index.HTML no seu browser
+- 2º Abra o arquivo index.HTML no seu browser
 
 <hr>
 
