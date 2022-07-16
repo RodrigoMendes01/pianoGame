@@ -1,7 +1,9 @@
-#  🎹 pianoGame 🎹
+###  🎹 pianoGame 🎹
 
-1º faça o git clone (URL do repositório)
-2 º Abra o arquivo index.HTML no seu browser
+- 1º faça o git clone (URL do repositório)
+ -2 º Abra o arquivo index.HTML no seu browser
+
+<hr>
 
 Teclas piano
 
