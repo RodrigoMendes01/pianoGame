@@ -5,34 +5,36 @@
 
 <hr>
 
-Teclas piano
+Teclas piano<br>
 
-data-key : faz referência ao número por trás da tecla
-data-note : faz referência a nota do piano
+- data-key : faz referência ao número por trás da tecla<br>
+- data-note : faz referência a nota do piano
 
 São 17 teclas ao todo, sendo 10 brancas e 7 pretas:
 
 Numeração tecla/ Nota / Letra teclado  === teclas brancas
 
-65  / C  / A
-83  / D  / S
-68  / E  / D
-70  / F  / F
-71  / G  / G
-72  / A  / H
-74  / B  / J
-75  / C  / K
-76  / D  / L
-186 / E  / Ç
+65  / C  / A<br>
+83  / D  / S<br>
+68  / E  / D<br>
+70  / F  / F<br>
+71  / G  / G<br>
+72  / A  / H<br>
+74  / B  / J<br>
+75  / C  / K<br>
+76  / D  / L<br>
+186 / E  / Ç<br>
 
 Numeração tecla/ Nota / Letra teclado === teclas pretas
 
-87 /  C#  / W
-69 /  D#  / E
-84 /  F#  / T
-89 /  G#  / Y
-85 /  A#  / U
-79 /  C#  / O
-80 /  D#  / P
+87 /  C#  / W<br>
+69 /  D#  / E<br>
+84 /  F#  / T<br>
+89 /  G#  / Y<br>
+85 /  A#  / U<br>
+79 /  C#  / O<br>
+80 /  D#  / P<br>
 
-Declarações, projeto não é meu, elaborei para a prática do conceito "DOM" 
+<img src="https://cdn.frankerfacez.com/emoticon/64210/1"/>
+Declarações: projeto não é meu, elaborei para a prática do conceito 
+<img src="https://cdn.frankerfacez.com/emoticon/64210/1"/> 
